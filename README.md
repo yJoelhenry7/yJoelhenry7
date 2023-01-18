@@ -1,4 +1,4 @@
-<h1 align="center">Hi ![image](https://user-images.githubusercontent.com/86186443/213125648-c13720f5-c685-49ef-9947-e037739163a9.png)
+<h1 align="center">Hi
 , I'm Joel Henry</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
