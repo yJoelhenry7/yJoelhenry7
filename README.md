@@ -9,7 +9,7 @@ src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611589
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 💬 Ask me about **Express,javascript**
+- 💬 Ask me about **React, Express**
 
 - 📫 How to reach me **joel9951yellamelli@gmail.com**
 
